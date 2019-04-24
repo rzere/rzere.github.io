@@ -1,4 +1,5 @@
 # Friday Theme
+Under construction (rzere.github.io)
 
 ## A Bootstrap 4 portfolio and blog theme for Jekyll
 
