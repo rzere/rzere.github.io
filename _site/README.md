@@ -1,4 +1,5 @@
 # Friday Theme
+Under construction @ rzere.github.io
 
 ## A Bootstrap 4 portfolio and blog theme for Jekyll
 
@@ -7,4 +8,3 @@
 * Docs: https://sfreytag.github.io/friday-theme/projects/install.html
 
 The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
-
