@@ -7,7 +7,7 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            rzere.github.io  # Site title
+title:            rzere  # Site title
 name:             Ruzgar Zere             # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
