@@ -4,7 +4,9 @@ permalink: /:categories/:year/:month/:day/:title.html
 # Timezone
 timezone: America/New_York
 
+# Additional
 future: true
+encoding: UTF-8
 
 # Conversion
 markdown:         kramdown
