@@ -1,5 +1,5 @@
 ---
-title:  Course Timetabling — Applying Graph Theory and Evolutionary Computation to a Course Scheduling System
+title:  Applying Graph Theory and Evolutionary Computation to a Course Scheduling System
 tags:
   - Genetic  Algorithms
   - Graph Theory
