@@ -11,7 +11,9 @@ DejaVu is a browser extension that allows journalists to compare images, determi
 
 <!--more-->
 
-The card allows a caption to be aligned with the photo, and the card classes contain a `card-img-top` that ensures the image is responsive within the grid.
+We define `visual misinformation` as images that are misleading, manipulated or fabricated, or shared out-of-context.
+
+With the change from physical newspapers to online content distributions, journalists are faced with the responsibility of assessing the accuracy of information in order to prevent the spread of fake news. DejaVu helps journalists evaluate images online by allowing them to see appearances of similar images or whether an image has been previously flagged as suspicious, and share their findings with other journalists by reporting images that they identify as visual misinformation.
 
 <div class="card mb-3">
     <img class="card-img-top" src="https://raw.githubusercontent.com/rzere/DejaVu/master/icons/dejavu_ss.png"/>
