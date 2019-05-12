@@ -7,7 +7,9 @@ tags:
   - Course Timetabling
 ---
 
-We describe the design and implementation of a course timetabling system. Our system models the timetabling problem as a vertex coloring of a weighted graph, where each edge has a two-component weight corresponding to the two objectives—minimizing conflict and creating compact schedules. Previous work by Wehrer and Yellen (Wehrer and Yellen 2014) resulted in a Java-based system that scheduled the Rollins College Science Division in 2011. (Rickman and Yellen 2014) built upon this framework to explore new scheduling algorithms. As a part of my Student-Faculty Collaborative Research program, (2016) we have reconstructed the system to be more efficient.
+We have designed and implementation of a course timetabling system. Our system models the timetabling problem as a vertex coloring of a weighted graph, where each edge has a two-component weight corresponding to the two objectives—minimizing conflict and creating compact schedules.
+
+Previous work by Wehrer and Yellen (Wehrer and Yellen 2014) resulted in a Java-based system that scheduled the Rollins College Science Division in 2011. (Rickman and Yellen 2014) built upon this framework to explore new scheduling algorithms. As a part of my Student-Faculty Collaborative Research program, (2016) we have reconstructed the system to be more efficient.
 
 <!--more-->
 
