@@ -1,36 +1,23 @@
 ---
-title:  DejaVu — A Browser Extension for Journalists
+title:  Eleanor — Conversational news virtual assistant.
 tags:
-  - JavaScript
-  - HTML
-  - CSS
-  - Visual Misinformation
+  - Python
+  - Lambda
+  - NLP
+  - NYTimes
 ---
 
-DejaVu is a browser extension that allows journalists to compare images, determine which images they consider to be the originals, and communicate these findings with other journalists within their organization.
+Eleanor is a conversational voice user interface that allows people to discover and discuss news in more convenient ways.
 
 <!--more-->
 
-We define `visual misinformation` as images that are misleading, manipulated or fabricated, or shared out-of-context.
-
-With the change from physical newspapers to online content distributions, journalists are faced with the responsibility of assessing the accuracy of information in order to prevent the spread of fake news.
-
-DejaVu helps journalists evaluate images online by allowing them to see appearances of similar images or whether an image has been previously flagged as suspicious, and share their findings with other journalists by reporting images that they identify as visual misinformation.
+We have developed this Alexa Skill, as part of our [Product Studio challenge](http://cornelltech.io/nytimes83) in collaboration with the New York Times. We sough to answer the question: "How might we identify and craft strategies to serve specific news audience segments?"
 
 <div class="card mb-3">
-    <img class="card-img-top" src="https://raw.githubusercontent.com/rzere/rzere.github.io/master/theme/img/DejaVuOriginal.png"/>
+    <img class="card-img-top" src="https://raw.githubusercontent.com/rzere/rzere.github.io/master/theme/img/eleanor..png"/>
     <div class="card-body bg-light">
         <div class="card-text">
-            Our Solution
-        </div>
-    </div>
-</div>
-
-<div class="card mb-3">
-    <img class="card-img-top" src="https://raw.githubusercontent.com/rzere/DejaVu/master/icons/dejavu_ss.png"/>
-    <div class="card-body bg-light">
-        <div class="card-text">
-            DejaVu UI
+            Eleanor poster
         </div>
     </div>
 </div>
